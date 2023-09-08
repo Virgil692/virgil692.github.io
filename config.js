@@ -1,6 +1,5 @@
 window.$docsify = {
       name: 'MrVirgil的博客',
-      repo: '',
 
       auto2top: true,
       loadSidebar: true,
@@ -10,8 +9,15 @@ window.$docsify = {
       loadNavbor: true,
 
       search: {
-        placeholder: 'Type to search',
-        noData: 'No matches found.',
+        placeholder: '搜索',
+        noData: '没有结果！',
         depth: 2,
+      }
+
+      count:{
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese',
       }
     };
