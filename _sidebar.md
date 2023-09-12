@@ -4,7 +4,7 @@
   * [其他链接](qt.md)
 
 * 最近的文章
-  * [第一篇文章](blog/first01.md)
+  * [Hello Word](blog/first01.md)
 
 * 以前的文章
-  * [hello]()
+  * [暂时还没有......]()
